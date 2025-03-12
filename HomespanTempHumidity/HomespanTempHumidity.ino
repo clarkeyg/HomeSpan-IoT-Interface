@@ -68,7 +68,6 @@ void setup() {
   Serial.begin(115200);
   dht.begin();
   homeSpan.begin();
-  homeawdawd
   
   new SpanAccessory();
     new Service::AccessoryInformation();
